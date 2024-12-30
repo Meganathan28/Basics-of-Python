@@ -33,4 +33,6 @@ print(type(single))#Type of data it is...
 name, age = "Max", 21 #Here , Assignment the different values in single line seperated by commas(,)
 max = jarvis = helana = 21 # If all the variables has same value use like this
 
+#These are some basic of Python ....
+#See more in next phases
 
