@@ -28,4 +28,9 @@ single = True #Funny..., Here,It can store True or False is known as boolean dat
 print("Single"+str(single))#Printing the boolean .....
 print(type(single))#Type of data it is...
 
+#Multiple assignment:
+    #-->Multiple values in single line of Code
+name, age = "Max", 21 #Here , Assignment the different values in single line seperated by commas(,)
+max = jarvis = helana = 21 # If all the variables has same value use like this
+
 
